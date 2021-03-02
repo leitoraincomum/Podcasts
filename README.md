@@ -49,3 +49,79 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 ## Agradecimentos 
 
 Agradecimento a todos que contribuem para que essa lista seja possível. 
+
+
+<!-- Links para organizar
+
+
+
+
+Podcasts para pessoas desenvolvedoras de software
+Brasileiros e em português
+#DevBrPodcasts
+
+os que faço, escutei ou costumo escutar
+
+Fronteiras da Engenharia de Software https://anchor.fm/fronteirasES
+Emílias Podcast - Mulheres na Computação https://anchor.fm/emilias-podcast
+Podcast do professor Adolfo Neto https://anchor.fm/adolfont
+HiDev Podcast https://anchor.fm/hidevpodcast/
+Os Programadores, de Marcelo Pinheiro https://anchor.fm/osprogramadores
+Hipsters ponto tech https://hipsters.tech/
+Lambda3 podcast https://www.lambda3.com.br/lambda3-podcast/
+Castálio Podcast https://castalio.info/
+Grok podcast https://www.grokpodcast.com.br/
+os demais em ordem de inclusão
+
+Sudocast https://www.sudocast.com.br/
+Dev na Estrada https://devnaestrada.com.br/
+Devs Cansados https://anchor.fm/devs-cansados
+O Universo da Programação https://anchor.fm/ouniversodaprogramacao
+Vida de Programador https://anchor.fm/vidadeprogramador/
+2devspodcast https://2devs.simplecast.com/
+PODebug https://podebug.com/
+Quebradev https://quebradev.com.br/
+Cabeça de Lab https://www.cabecadelab.com.br/
+Café Debug https://soundcloud.com/cafe-de-bug
+DatabaseCast https://databasecast.com.br
+DataHackers podcast https://datahackers.com.br/podcast
+BrazilJS https://open.spotify.com/show/59y5f8SkZioYxajt4hYxAR?si=shZH--cMQ3O6uP-MEVWt1g&t=0
+Zofe https://zofe.com.br/
+QAnsei https://anchor.fm/qansei
+ContÁgil https://tunein.com/podcasts/Technology-Podcasts/ContAgil-Podcast-p1215078/
+AgilCast http://ccsl.ime.usp.br/agilcoop/node/110
+Cloud Casters https://cloudcasters.io
+Pizza de Dados http://twitter.com/pizzadedados
+Unbounded.dev https://unbounded.dev/
+Podcast do Júlio https://anchor.fm/juliodelimas
+Interação Humano-Máquina - César França (DC/UFRPE) https://anchor.fm/cesar-franssa
+MovileCast https://open.spotify.com/show/28364GKc4RPwB3zQsbuctj
+Rolando os Dados https://open.spotify.com/show/5HVHu909KI4JbDW7TWiHbe?si=bDAAQSl5Sv2X-j-6NHxRuw
+os agilistas https://open.spotify.com/show/2HyjQl5KLIAIPYR8qP5IXr
+CariocaDev https://anchor.fm/unicariocadev
+Rapidinha com @edgarberlinck https://anchor.fm/curtinhasdoed
+Build Failed https://www.listennotes.com/pt/podcasts/build-failed-podcast-build-failed-podcast-2qLEpyQ1jNM/
+Podcasts com foco em mulheres na computação ou na tecnologia estão em outra lista:Podcasts sobre Mulheres na Computação.
+
+Esqueci de algum? Envie-me nome do podcast e link em https://twitter.com/adolfont
+
+Internacionais, em inglês
+Impossível listar exaustivamente, então vão aqui meus favoritos:
+
+Changelog https://changelog.com/
+Corecursive https://corecursive.com/
+Software Engineering Radio https://www.se-radio.net/
+Software Engineering Unlocked https://www.software-engineering-unlocked.com/
+
+
+
+
+
+
+
+
+
+
+
+
+-->
