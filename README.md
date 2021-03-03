@@ -18,11 +18,14 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Devs Cansados](https://anchor.fm/devs-cansados)| Desenvolvimento | --------- | --------- |
 | [Dev na Estrada](https://devnaestrada.com.br/)           | Desenvolvimento                     | Eduardo Matos, Ramon Sanches e Willian Arantes          | ---------  |
 | [Dev Show](https://devshow.com.br) | Desenvolvimento | André Secco, Ericson da Fonseca, Ewerton Jordão, Luiz Carlos Faria, Renato Groffe, Thiago Adriano e Thiago Bertuzzi | --------- |
-| [Estratégia Tech](https://anchor.fm/estrategia-tech)   |Concursos de TI  | Estratégia Concursos         |  Conteúdo voltado para concursos de Tecnologia da Informação |
+| [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast) | Geralw |  | --------- | 
+| [Estratégia Tech](https://anchor.fm/estrategia-tech)   | Concursos de TI  | Estratégia Concursos         |  Conteúdo voltado para concursos de Tecnologia da Informação |
 | [FalaDev](https://anchor.fm/faladev)                                                          | Desenvolvimento                     | Rocketseat         | ---------  |
+| [Fronteiras da Engenharia de Software](https://anchor.fm/fronteirasES) | Engenharia de Software |  | --------- |
 | [HiDev](https://anchor.fm/hidevpodcast) | Desenvolvimento | Bruno Cartaxo | --------- |
 | [Hipsters Ponto Tech](https://hipsters.tech/)                                                        | Geral                     | Grupo Caelum          | ---------  |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                   | Geral                     | Lambda3           | ---------  |
+| [Os Programadores](https://anchor.fm/osprogramadores) | Desenvolvimento | Marcelo Pinheiro | --------- |
 | [P de Podcast](https://anchor.fm/pdepodcast)| Desenvolvimento | Marcio Frayze e Julianno Martins | ---------  |
 | [Papo de Devas](https://open.spotify.com/show/1NKhjTGBdTCtWsxZrlAkfQ)| Desenvolvimento | Nayama Rosa e Priscila Theodoro   | --------- |
 | [Pipoca Ágil](https://anchor.fm/pipocaagil/)                                               | Metodologia Ágil                     | Ibson Cabral         | ---------  |
@@ -62,28 +65,19 @@ Brasileiros e em português
 
 os que faço, escutei ou costumo escutar
 
-Fronteiras da Engenharia de Software https://anchor.fm/fronteirasES
-Emílias Podcast - Mulheres na Computação https://anchor.fm/emilias-podcast
+
+
 Podcast do professor Adolfo Neto https://anchor.fm/adolfont
-HiDev Podcast https://anchor.fm/hidevpodcast/
-Os Programadores, de Marcelo Pinheiro https://anchor.fm/osprogramadores
-Hipsters ponto tech https://hipsters.tech/
-Lambda3 podcast https://www.lambda3.com.br/lambda3-podcast/
+
+
 Castálio Podcast https://castalio.info/
 Grok podcast https://www.grokpodcast.com.br/
 os demais em ordem de inclusão
 
 Sudocast https://www.sudocast.com.br/
-Dev na Estrada https://devnaestrada.com.br/
-Devs Cansados https://anchor.fm/devs-cansados
 O Universo da Programação https://anchor.fm/ouniversodaprogramacao
-Vida de Programador https://anchor.fm/vidadeprogramador/
 2devspodcast https://2devs.simplecast.com/
 PODebug https://podebug.com/
-Quebradev https://quebradev.com.br/
-Cabeça de Lab https://www.cabecadelab.com.br/
-Café Debug https://soundcloud.com/cafe-de-bug
-DatabaseCast https://databasecast.com.br
 DataHackers podcast https://datahackers.com.br/podcast
 BrazilJS https://open.spotify.com/show/59y5f8SkZioYxajt4hYxAR?si=shZH--cMQ3O6uP-MEVWt1g&t=0
 Zofe https://zofe.com.br/
