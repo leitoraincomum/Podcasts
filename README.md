@@ -108,4 +108,7 @@ Changelog https://changelog.com/
 Corecursive https://corecursive.com/
 Software Engineering Radio https://www.se-radio.net/
 Software Engineering Unlocked https://www.software-engineering-unlocked.com/
+
+
+https://pessoal.dainf.ct.utfpr.edu.br/adolfo/doku.php?id=2020:podcasts_para_pessoas_desenvolvedoras_de_software&s[]=podcasts&s[]=pessoas
 -->
