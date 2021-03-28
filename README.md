@@ -9,18 +9,18 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 
 | Nome (com link)                                                                                                                                      | Área Principal  (Infra, Dev, Dados, etc)    | Responsável | Observação (opcional)   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
-| [AgilCast](http://ccsl.ime.usp.br/agilcoop/node/110) |  |  | --------- |w
-| [BrazilJS](https://open.spotify.com/show/59y5f8SkZioYxajt4hYxAR) | Geral |  | --------- |
+| [AgilCast](http://ccsl.ime.usp.br/agilcoop/node/110) | Metodologia Ágil | Agilcoop | --------- |
+| [BrazilJS](https://open.spotify.com/show/59y5f8SkZioYxajt4hYxAR) | Geral | BrazilJS | --------- |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)   | Geral                     | LuizaLabs         | LuizaLabs é o laboratório de Tecnologia e Inovação do Magalu.    |
 | [Café de Bug](https://omny.fm/shows/cafe-de-bug) | Geral | Jéssica Nathany | --------- |
-| [CariocaDev](https://anchor.fm/unicariocadev) |  |  | --------- |
-| [Castálio Podcast](https://castalio.info/) |  |  | --------- |
-| [Cloud Casters](https://cloudcasters.io) |  |  | --------- |
+| [CariocaDev](https://anchor.fm/unicariocadev) | Geral | Profissionais de TI, alunos, ex alunos da Unicarioca do Rio Comprido | --------- |
+| [Castálio Podcast](https://castalio.info/) | Geral | Bruno Rocha, Elyézer Rezende e Og Maciel | --------- |
+| [Cloud Casters](https://cloudcasters.io) | Geral | Fabricio Sanchez e Evilázaro Alves  | --------- |
 | [Coders Podcast](https://open.spotify.com/show/7kBwYw8J9vpTPjYODOmt3N) | Geral | Achiles Luciano, Lamunier Costa e Ramon Sousa | --------- |
 | [Commit](https://radiopublic.com/commit-WYMXMl/episodes)                               | Desenvolvimento                        | Elton Minetto           | ---------  |
-| [ContÁgil](https://tunein.com/podcasts/Technology-Podcasts/ContAgil-Podcast-p1215078/) |  |  | --------- |
+| [ContÁgil](https://tunein.com/podcasts/Technology-Podcasts/ContAgil-Podcast-p1215078/) | Geral | Plataformatec  | --------- |
 | [DatabaseCast](http://databasecast.com.br) |  Banco de Dados   | Mauro Pichiliani e Wagner Crivelini | --------- |
-| [DataHackers](https://datahackers.com.br/podcast) |  |  | --------- |
+| [DataHackers](https://datahackers.com.br/podcast) | Geral | DataHackers | --------- |
 | [Dev Devs](https://devdevs.org)           | Desenvolvimento                     | Gustavo Teodoro e Luiz Baldi          | ---------  |
 | [Devs Cansados](https://anchor.fm/devs-cansados)| Desenvolvimento | --------- | --------- |
 | [Dev na Estrada](https://devnaestrada.com.br/)           | Desenvolvimento                     | Eduardo Matos, Ramon Sanches e Willian Arantes          | ---------  |
