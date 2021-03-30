@@ -26,7 +26,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Dev na Estrada](https://devnaestrada.com.br/)           | Desenvolvimento                     | Eduardo Matos, Ramon Sanches e Willian Arantes          | ---------  |
 | [Dev Show](https://devshow.com.br) | Desenvolvimento | André Secco, Ericson da Fonseca, Ewerton Jordão, Luiz Carlos Faria, Renato Groffe, Thiago Adriano e Thiago Bertuzzi | --------- |
 | [Dois Devs](https://2devs.simplecast.com/) |  |  | --------- |
-| [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast) | Geral |  | --------- | 
+| [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast) | Geral | Universidade Tecnológica Federal do Paraná (UTFPR) | --------- | 
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)   | Concursos de TI  | Estratégia Concursos         |  Conteúdo voltado para concursos de Tecnologia da Informação |
 | [FalaDev](https://anchor.fm/faladev)                                                          | Desenvolvimento                     | Rocketseat         | ---------  |
 | [Fronteiras da Engenharia de Software](https://anchor.fm/fronteirasES) | Engenharia de Software |  | --------- |
@@ -34,17 +34,17 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [HiDev](https://anchor.fm/hidevpodcast) | Desenvolvimento | Bruno Cartaxo | --------- |
 | [Hipsters Ponto Tech](https://hipsters.tech/)                                                        | Geral                     | Grupo Caelum          | ---------  |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                   | Geral                     | Lambda3           | ---------  |
-| [O Universo da Programação](https://anchor.fm/ouniversodaprogramacao) |  |  | --------- |w
+| [O Universo da Programação](https://anchor.fm/ouniversodaprogramacao) |  | Willian Oliveira | --------- |
 | [Os Programadores](https://anchor.fm/osprogramadores) | Desenvolvimento | Marcelo Pinheiro | --------- |
 | [P de Podcast](https://anchor.fm/pdepodcast)| Desenvolvimento | Marcio Frayze e Julianno Martins | ---------  |
 | [Papo de Devas](https://open.spotify.com/show/1NKhjTGBdTCtWsxZrlAkfQ)| Desenvolvimento | Nayama Rosa e Priscila Theodoro   | --------- |
 | [Pipoca Ágil](https://anchor.fm/pipocaagil/)                                               | Metodologia Ágil                     | Ibson Cabral         | ---------  |
 | [Pizza de Dados](https://pizzadedados.com/)       | Ciência de Dados                     | Gustavo Coelho, Jessica Temporal e Leticia Portella           | ---------  |
-| [PODebug](https://podebug.com/) |  |  | --------- |
+| [PODebug](http://podebug.com) | Desenvolvimento | Carlos Henrique, Luiz Borba, Marcelo Lv Cabral e Vladimir Cezar | --------- |
 | [PodProgramar](https://podprogramar.com.br)                                     | Desenvolvimento                    | Ana Eliza e Jessi Zanelato        | ---------  |
 | [PodTag](https://www.podtag.com.br) | Geral | Clécius Martinkoski, Luiz Gonçalves e Yanna Gonzaga | --------- |
-| [Qansei](https://anchor.fm/qansei) |  |  | --------- |
-| [QuebraDev](https://quebradev.com.br)                                     | Geral                    | Debora Rocha, Gustavo Castilião, Kaio Teixeira, Lucas Silva, Marcos Florencio, Reginaldo Junior, Thassia Lima e Willian Viana        | ---------  |
+| [Qansei](https://anchor.fm/qansei) | Qualidade e Desenvolvimento | AgileTesters  | --------- |AgileTesters 
+| [QuebraDev](https://quebradev.com.br)                                     | Geral                    | Debora Rocha, Gustavo C, astilião, Kaio Teixeira, Lucas Silva, Marcos Florencio, Reginaldo Junior, Thassia Lima e Willian Viana        | ---------  |
 | [Papo Livre](https://papolivre.org)                                     | Geral                | Antonio Terceiro, Paulo Santana e Thiago Mendonça       | ---------  |
 | [RebuildCast](https://open.spotify.com/show/4ATOzgTwwo0eSSuCY09T56) | Desenvolvimento                | Lucas Teles                                        | --------- |
 | [Scuba Ponto Dev](https://www.scuba.dev.br) | Geral | Grupo Caelum | --------- |
