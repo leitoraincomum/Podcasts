@@ -30,11 +30,11 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)   | Concursos de TI  | Estratégia Concursos         |  Conteúdo voltado para concursos de Tecnologia da Informação |
 | [FalaDev](https://anchor.fm/faladev)                                                          | Desenvolvimento                     | Rocketseat         | ---------  |
 | [Fronteiras da Engenharia de Software](https://anchor.fm/fronteirasES) | Engenharia de Software |  | --------- |
-| [Grok Podcast](https://www.grokpodcast.com.br/) |  |  Carlos Brando e Rafael Rosa Fu| --------- |
-| [HiDev](https://anchor.fm/hidevpodcast) | Desenvolvimento | Bruno Cartaxo | --------- |
+| [Grok Podcast](https://www.grokpodcast.com.br/) | Desenvolvimento |  Carlos Brando e Rafael Rosa Fu| --------- |
+| [HiDev](https://anchor.fm/hidevpodcast) | Desenvolvimento | BrDesenvolvimentouno Cartaxo | --------- |
 | [Hipsters Ponto Tech](https://hipsters.tech/)                                                        | Geral                     | Grupo Caelum          | ---------  |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                   | Geral                     | Lambda3           | ---------  |
-| [O Universo da Programação](https://anchor.fm/ouniversodaprogramacao) |  | Willian Oliveira | --------- |
+| [O Universo da Programação](https://anchor.fm/ouniversodaprogramacao) | Desenvolvimento | Willian Oliveira | --------- |
 | [Os Programadores](https://anchor.fm/osprogramadores) | Desenvolvimento | Marcelo Pinheiro | --------- |
 | [P de Podcast](https://anchor.fm/pdepodcast)| Desenvolvimento | Marcio Frayze e Julianno Martins | ---------  |
 | [Papo de Devas](https://open.spotify.com/show/1NKhjTGBdTCtWsxZrlAkfQ)| Desenvolvimento | Nayama Rosa e Priscila Theodoro   | --------- |
@@ -50,10 +50,10 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Scuba Ponto Dev](https://www.scuba.dev.br) | Geral | Grupo Caelum | --------- |
 | [Sem Servidor](https://anchor.fm/semservidor/) |  Arquitetura Serverless  | Evandro Pires da Silva | ---------  |
 | [Start Coding](https://anchor.fm/start-coding) | Desenvolvimento | Mariana Araujo Adelino | --------- |
-| [Sudocast](https://www.sudocast.com.br/) |  |  | --------- |
+| [Sudocast](https://www.sudocast.com.br/) | Geral | Igor Leroy, Mario Silveira e Pery Lemke | --------- |
 | [Taverna na Programação](http://tavernaprogramacao.com.br) |  Desenvolvimento  | Senhor Caveira | ---------  |
 | [Vida de  programador](https://anchor.fm/vidadeprogramador/) | Desenvolvimento | Andre Noel | ---------  |
-| [Zofe](https://zofe.com.br/) |  |  | --------- |
+| [Zofe](https://zofe.com.br/) | Front-End | Atila Fassina, Daniel Filho e Isa Silveira | --------- |
 
 ## Podcasts em outros idiomas (em ordem alfabética)
 
