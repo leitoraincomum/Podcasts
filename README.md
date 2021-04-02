@@ -30,7 +30,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)   | Concursos de TI  | Estratégia Concursos         |  Conteúdo voltado para concursos de Tecnologia da Informação |
 | [FalaDev](https://anchor.fm/faladev)                                                          | Desenvolvimento                     | Rocketseat         | ---------  |
 | [Fronteiras da Engenharia de Software](https://anchor.fm/fronteirasES) | Engenharia de Software |  | --------- |
-| [Grok Podcast](https://www.grokpodcast.com.br/) |  |  | --------- |
+| [Grok Podcast](https://www.grokpodcast.com.br/) |  |  Carlos Brando e Rafael Rosa Fu| --------- |
 | [HiDev](https://anchor.fm/hidevpodcast) | Desenvolvimento | Bruno Cartaxo | --------- |
 | [Hipsters Ponto Tech](https://hipsters.tech/)                                                        | Geral                     | Grupo Caelum          | ---------  |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                   | Geral                     | Lambda3           | ---------  |
