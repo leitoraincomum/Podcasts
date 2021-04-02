@@ -25,7 +25,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Devs Cansados](https://anchor.fm/devs-cansados)| Desenvolvimento | --------- | --------- |
 | [Dev na Estrada](https://devnaestrada.com.br/)           | Desenvolvimento                     | Eduardo Matos, Ramon Sanches e Willian Arantes          | ---------  |
 | [Dev Show](https://devshow.com.br) | Desenvolvimento | André Secco, Ericson da Fonseca, Ewerton Jordão, Luiz Carlos Faria, Renato Groffe, Thiago Adriano e Thiago Bertuzzi | --------- |
-| [Dois Devs](https://2devs.simplecast.com/) |  |  | --------- |
+| [Dois Devs](https://2devs.simplecast.com/) | Engenharia de Software | Rachid Calazans & Thiago Ramos | --------- |
 | [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast) | Geral | Universidade Tecnológica Federal do Paraná (UTFPR) | --------- | 
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)   | Concursos de TI  | Estratégia Concursos         |  Conteúdo voltado para concursos de Tecnologia da Informação |
 | [FalaDev](https://anchor.fm/faladev)                                                          | Desenvolvimento                     | Rocketseat         | ---------  |
