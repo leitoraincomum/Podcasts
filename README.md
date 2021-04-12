@@ -33,7 +33,9 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Grok Podcast](https://www.grokpodcast.com.br/) | Desenvolvimento |  Carlos Brando e Rafael Rosa Fu| --------- |
 | [HiDev](https://anchor.fm/hidevpodcast) | Desenvolvimento | BrDesenvolvimentouno Cartaxo | --------- |
 | [Hipsters Ponto Tech](https://hipsters.tech/)                                                        | Geral                     | Grupo Caelum          | ---------  |
-| [Lambda3](https://www.lambda3.com.br/lambda3-podcast/)                                                   | Geral                     | Lambda3           | ---------  |
+| [Interação Humano-Máquina](https://anchor.fm/cesar-franssa) |  | César França | --------- |
+| [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Geral                     | Lambda3           | ---------  |
+| [MovileCast](https://open.spotify.com/show/28364GKc4RPwB3zQsbuctj) | Geral | Grupo Movile | --------- |
 | [O Universo da Programação](https://anchor.fm/ouniversodaprogramacao) | Desenvolvimento | Willian Oliveira | --------- |
 | [Os Programadores](https://anchor.fm/osprogramadores) | Desenvolvimento | Marcelo Pinheiro | --------- |
 | [P de Podcast](https://anchor.fm/pdepodcast)| Desenvolvimento | Marcio Frayze e Julianno Martins | ---------  |
@@ -41,6 +43,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Pipoca Ágil](https://anchor.fm/pipocaagil/)                                               | Metodologia Ágil                     | Ibson Cabral         | ---------  |
 | [Pizza de Dados](https://pizzadedados.com/)       | Ciência de Dados                     | Gustavo Coelho, Jessica Temporal e Leticia Portella           | ---------  |
 | [PODebug](http://podebug.com) | Desenvolvimento | Carlos Henrique, Luiz Borba, Marcelo Lv Cabral e Vladimir Cezar | --------- |
+| [Podcast do Júlio](https://anchor.fm/juliodelimas) | Qualidade e Testes de Software | Julio de Lima | --------- |
 | [PodProgramar](https://podprogramar.com.br)                                     | Desenvolvimento                    | Ana Eliza e Jessi Zanelato        | ---------  |
 | [PodTag](https://www.podtag.com.br) | Geral | Clécius Martinkoski, Luiz Gonçalves e Yanna Gonzaga | --------- |
 | [Qansei](https://anchor.fm/qansei) | Qualidade e Desenvolvimento | AgileTesters  | --------- |AgileTesters 
@@ -52,6 +55,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Start Coding](https://anchor.fm/start-coding) | Desenvolvimento | Mariana Araujo Adelino | --------- |
 | [Sudocast](https://www.sudocast.com.br/) | Geral | Igor Leroy, Mario Silveira e Pery Lemke | --------- |
 | [Taverna na Programação](http://tavernaprogramacao.com.br) |  Desenvolvimento  | Senhor Caveira | ---------  |
+| [Unbounded.dev](https://unbounded.dev/) | Desenvolvimento | Alvaro Cantador e Eduardo Dias | --------- |
 | [Vida de  programador](https://anchor.fm/vidadeprogramador/) | Desenvolvimento | Andre Noel | ---------  |
 | [Zofe](https://zofe.com.br/) | Front-End | Atila Fassina, Daniel Filho e Isa Silveira | --------- |
 
@@ -82,16 +86,9 @@ Agradecimento a todos que contribuem para que essa lista seja possível.
 | []() |  |  | --------- |
 | []() |  |  | --------- |
 | []() |  |  | --------- |
-| []() |  |  | --------- |
-| []() |  |  | --------- |
-| []() |  |  | --------- |
-| []() |  |  | --------- |
 
-
-Unbounded.dev https://unbounded.dev/
-Podcast do Júlio https://anchor.fm/juliodelimas
-Interação Humano-Máquina - César França (DC/UFRPE) https://anchor.fm/cesar-franssa
-MovileCast https://open.spotify.com/show/28364GKc4RPwB3zQsbuctj
+ 
+ 
 Rolando os Dados https://open.spotify.com/show/5HVHu909KI4JbDW7TWiHbe?si=bDAAQSl5Sv2X-j-6NHxRuw
 os agilistas https://open.spotify.com/show/2HyjQl5KLIAIPYR8qP5IXr
 
