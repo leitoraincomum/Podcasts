@@ -36,8 +36,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 ## Podcasts em outros idiomas (em ordem alfabética)
 
 | Nome (com link) | Área Principal  (Literatura, Dev, Tech, Parentalidade, etc)   | Responsável | Idioma   |
-| ------------------- | --------------------------- | ----------- | -------- |
-
+| -------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
 | []() |  |  | --------- |
 | []() |  |  | --------- |
 | []() |  |  | --------- |
