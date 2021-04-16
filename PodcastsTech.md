@@ -9,7 +9,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 
 | Nome (com link)                                                                                                                                      | Área Principal  (Infra, Dev, Dados, etc)    | Responsável | Observação (opcional)   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
-| [AgilCast](http://ccsl.ime.usp.br/agilcoop/node/110) | Metodologia Ágil | Agilcoop | --------- |
+| [AgilCast](http://www.agilcoop.org.br/agilcast) | Metodologia Ágil | Agilcoop | --------- |
 | [BrazilJS](https://open.spotify.com/show/59y5f8SkZioYxajt4hYxAR) | Geral | BrazilJS | --------- |
 | [Build Failed](https://www.listennotes.com/pt/podcasts/build-failed-podcast-build-failed-podcast-2qLEpyQ1jNM/) | Desenvolvimento Mobile iOS | Bruno Ramos e Bruno Rocha | --------- |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)   | Geral                     | LuizaLabs | LuizaLabs é o laboratório de Tecnologia e Inovação do Magalu.    |
