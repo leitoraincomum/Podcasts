@@ -11,7 +11,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
 | [AgilCast](http://www.agilcoop.org.br/agilcast) | Metodologia Ágil | Agilcoop | --------- |
 | [BrazilJS](https://open.spotify.com/show/59y5f8SkZioYxajt4hYxAR) | Geral | BrazilJS | --------- |
-| [Build Failed](https://www.listennotes.com/pt/podcasts/build-failed-podcast-build-failed-podcast-2qLEpyQ1jNM/) | Desenvolvimento Mobile iOS | Bruno Ramos e Bruno Rocha | --------- |
+| [Build Failed](https://soundcloud.com/build-failed-podcast?utm_source=listennotes.com&utm_campaign=Listen+Notes&utm_medium=website) | Desenvolvimento Mobile iOS | Bruno Ramos e Bruno Rocha | --------- |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)   | Geral                     | LuizaLabs | LuizaLabs é o laboratório de Tecnologia e Inovação do Magalu.    |
 | [Café de Bug](https://omny.fm/shows/cafe-de-bug) | Geral | Jéssica Nathany | --------- |
 | [CariocaDev](https://anchor.fm/unicariocadev) | Geral | Profissionais de TI, alunos, ex alunos da Unicarioca do Rio Comprido | --------- |
