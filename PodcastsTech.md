@@ -30,6 +30,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast) | Geral | Universidade Tecnológica Federal do Paraná (UTFPR) | --------- | 
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)   | Concursos de TI  | Estratégia Concursos |  Conteúdo voltado para concursos de Tecnologia da Informação |
 | [FalaDev](https://anchor.fm/faladev) | Desenvolvimento | Rocketseat         | ---------  |
+| [Fechatag](https://fechatagpodcast.com.br) | Conversas Com Pessoas Tech | Fê Montanha | --------- |
 | [Fronteiras da Engenharia de Software](https://anchor.fm/fronteirasES) | Engenharia de Software | Adolfo Neto e Gustavo Pinto | --------- |
 | [Grok Podcast](https://www.grokpodcast.com.br/) | Desenvolvimento |  Carlos Brando e Rafael Rosa Fu| --------- |
 | [HiDev](https://anchor.fm/hidevpodcast) | Desenvolvimento | BrDesenvolvimentouno Cartaxo | --------- |
@@ -85,4 +86,4 @@ Agradecimento a todos que contribuem para que essa lista seja possível.
 | []() |  |  | --------- |
 | []() |  |  | --------- |
 | []() |  |  | --------- |
-| []() |  |  | --------- |
+
