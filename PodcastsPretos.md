@@ -10,9 +10,9 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 
 | Nome (com link)  | Área Principal  (Literatura, Dev, Tech, Parentalidade, etc)    | Responsável | Observação (opcional)   |
 | -------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
-| []() |  |  | --------- |
-| []() |  |  | --------- |
-| []() |  |  | --------- |
+| [Criando Monstrinhos](https://linklist.bio/leitoraincomum) | Maternidade de Adolescentes | Fernanda Souza e Isis Tomie | --------- |
+| [PerifaCon](https://perifacon.com.br/podcast/) | Conteúdo Geek | PerifaCon | --------- |
+| [Quadrinhos e Narrativas](https://turnolivre.com/category/pod-cast/quadrinhos-e-narrativas/) | Conteúdo Geek | Hamilton Kabuna | --------- |
 | []() |  |  | --------- |
 | []() |  |  | --------- |
 | []() |  |  | --------- |
