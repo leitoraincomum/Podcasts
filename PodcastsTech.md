@@ -28,6 +28,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Dev Show](https://devshow.com.br) | Desenvolvimento | André Secco, Ericson da Fonseca, Ewerton Jordão, Luiz Carlos Faria, Renato Groffe, Thiago Adriano e Thiago Bertuzzi | --------- |
 | [Dois Devs](https://2devs.simplecast.com/) | Engenharia de Software | Rachid Calazans & Thiago Ramos | --------- |
 | [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast) | Geral | Universidade Tecnológica Federal do Paraná (UTFPR) | --------- | 
+| [Entre Chaves](https://open.spotify.com/show/1ub9YZKamdMKdKbLia4YrX) | Desenvolvimento |  DTI Digital | --------- |
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)   | Concursos de TI  | Estratégia Concursos |  Conteúdo voltado para concursos de Tecnologia da Informação |
 | [FalaDev](https://anchor.fm/faladev) | Desenvolvimento | Rocketseat         | ---------  |
 | [Fechatag](https://fechatagpodcast.com.br) | Conversas Com Pessoas Tech | Fê Montanha | --------- |
@@ -35,7 +36,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Grok Podcast](https://www.grokpodcast.com.br/) | Desenvolvimento |  Carlos Brando e Rafael Rosa Fu| --------- |
 | [HiDev](https://anchor.fm/hidevpodcast) | Desenvolvimento | BrDesenvolvimentouno Cartaxo | --------- |
 | [Hipsters Ponto Tech](https://hipsters.tech/) | Geral | Grupo Caelum          | ---------  |
-| [Interação Humano-Máquina](https://anchor.fm/cesar-franssa) |  | César França | --------- |
+| [Interação Humano-Máquina](https://anchor.fm/cesar-franssa) | Desenvolvimento | César França | --------- |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Geral                     | Lambda3           | ---------  |
 | [MovileCast](https://open.spotify.com/show/28364GKc4RPwB3zQsbuctj) | Geral | Grupo Movile | --------- |
 | [O Universo da Programação](https://anchor.fm/ouniversodaprogramacao) | Desenvolvimento | Willian Oliveira | --------- |
