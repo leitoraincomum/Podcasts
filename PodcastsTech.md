@@ -38,6 +38,8 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Hipsters Ponto Tech](https://hipsters.tech/) | Geral | Grupo Caelum          | ---------  |
 | [Interação Humano-Máquina](https://anchor.fm/cesar-franssa) | Desenvolvimento | César França | --------- |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Geral                     | Lambda3           | ---------  |
+| [Mlks da DeepWeb](https://anchor.fm/mlks-da-deepweb) | Desenvolvimento | Ederson Developer, Kastro Walker, Professor Bruno Lopes, TonhoCodes e Vitthin | --------- |
+| [Moças da Web](https://anchor.fm/mocasdaweb) | Front-End | Levs Xyca e Pachi Codes | --------- |
 | [MovileCast](https://open.spotify.com/show/28364GKc4RPwB3zQsbuctj) | Geral | Grupo Movile | --------- |
 | [O Universo da Programação](https://anchor.fm/ouniversodaprogramacao) | Desenvolvimento | Willian Oliveira | --------- |
 | [Os Agilistas](https://open.spotify.com/show/2HyjQl5KLIAIPYR8qP5IXr) | Metodologia Ágil | DTI Digital | --------- |
@@ -82,6 +84,8 @@ Agradecimento a todos que contribuem para que essa lista seja possível.
 
 
 <!-- Links para organizar
+
+
 
 | []() |  |  | --------- |
 | []() |  |  | --------- |
