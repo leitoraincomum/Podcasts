@@ -38,6 +38,8 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Hipsters Ponto Tech](https://hipsters.tech/) | Geral | Grupo Caelum          | ---------  |
 | [Interação Humano-Máquina](https://anchor.fm/cesar-franssa) | Desenvolvimento | César França | --------- |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Geral                     | Lambda3           | ---------  |
+| [Levanta o Cast](https://anchor.fm/levanta-o-cast) | Geral | Vários | --------- |
+| [Loop Matinal](http://www.loopmatinal.com/) | Geral | Junior Nannetti e William Marchiori | --------- |
 | [Mlks da DeepWeb](https://anchor.fm/mlks-da-deepweb) | Desenvolvimento | Ederson Developer, Kastro Walker, Professor Bruno Lopes, TonhoCodes e Vitthin | --------- |
 | [Moças da Web](https://anchor.fm/mocasdaweb) | Front-End | Levs Xyca e Pachi Codes | --------- |
 | [MovileCast](https://open.spotify.com/show/28364GKc4RPwB3zQsbuctj) | Geral | Grupo Movile | --------- |
@@ -46,6 +48,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Os Programadores](https://anchor.fm/osprogramadores) | Desenvolvimento | Marcelo Pinheiro | --------- |
 | [P de Podcast](https://anchor.fm/pdepodcast)| Desenvolvimento | Marcio Frayze e Julianno Martins | ---------  |
 | [Papo de Devas](https://open.spotify.com/show/1NKhjTGBdTCtWsxZrlAkfQ)| Desenvolvimento | Nayama Rosa e Priscila Theodoro   | --------- |
+| [Perifacode](https://anchor.fm/perifacode) | Geral | Perifacode | --------- |
 | [Pipoca Ágil](https://anchor.fm/pipocaagil/)            | Metodologia Ágil                     | Ibson Cabral         | ---------  |
 | [Pizza de Dados](https://pizzadedados.com/) | Ciência de Dados | Gustavo Coelho, Jessica Temporal e Leticia Portella           | ---------  |
 | [PODebug](http://podebug.com) | Desenvolvimento | Carlos Henrique, Luiz Borba, Marcelo Lv Cabral e Vladimir Cezar | --------- |
@@ -58,11 +61,13 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Rapidinha com @edgarberlinck](https://anchor.fm/curtinhasdoed) | Geral | Edgar Muniz Berlinck | --------- |
 | [RebuildCast](https://open.spotify.com/show/4ATOzgTwwo0eSSuCY09T56) | Desenvolvimento | Lucas Teles | --------- |
 | [Rolando os Dados](https://open.spotify.com/show/5HVHu909KI4JbDW7TWiHbe?si=bDAAQSl5Sv2X-j-6NHxRuw) | Análise de Dados |  | --------- |
+| [Sala de TI](https://saladeti.com/podcast/) | Geral | Vários | --------- |
 | [Scuba Ponto Dev](https://www.scuba.dev.br) | Geral | Grupo Caelum | --------- |
 | [Sem Servidor](https://anchor.fm/semservidor/) |  Arquitetura Serverless  | Evandro Pires da Silva | ---------  |
 | [Start Coding](https://anchor.fm/start-coding) | Desenvolvimento | Mariana Araujo Adelino | --------- |
 | [Sudocast](https://www.sudocast.com.br/) | Geral | Igor Leroy, Mario Silveira e Pery Lemke | --------- |
 | [Taverna na Programação](http://tavernaprogramacao.com.br) |  Desenvolvimento  | Senhor Caveira | ---------  |
+| [Tecnocracia](https://open.spotify.com/show/2dK6bnbumjpnsnX8JMCxEH) | Geral | Guilherme Felitti | --------- |
 | [Unbounded.dev](https://unbounded.dev/) | Desenvolvimento | Alvaro Cantador e Eduardo Dias | --------- |
 | [Vida de  programador](https://anchor.fm/vidadeprogramador/) | Desenvolvimento | Andre Noel | ---------  |
 | [Zofe](https://zofe.com.br/) | Front-End | Atila Fassina, Daniel Filho e Isa Silveira | --------- |
@@ -85,8 +90,19 @@ Agradecimento a todos que contribuem para que essa lista seja possível.
 
 <!-- Links para organizar
 
-
-
+| []() |  |  | --------- |
+| []() |  |  | --------- |
+| []() |  |  | --------- |
+| []() |  |  | --------- |
+| []() |  |  | --------- |
+| []() |  |  | --------- |
+| []() |  |  | --------- |
+| []() |  |  | --------- |
+| []() |  |  | --------- |
+| []() |  |  | --------- |
+| []() |  |  | --------- |
+| []() |  |  | --------- |
+| []() |  |  | --------- |
 | []() |  |  | --------- |
 | []() |  |  | --------- |
 | []() |  |  | --------- |
