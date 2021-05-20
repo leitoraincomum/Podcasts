@@ -60,6 +60,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Papo Livre](https://papolivre.org) | Geral | Antonio Terceiro, Paulo Santana e Thiago Mendonça       | ---------  |
 | [Rapidinha com @edgarberlinck](https://anchor.fm/curtinhasdoed) | Geral | Edgar Muniz Berlinck | --------- |
 | [RebuildCast](https://open.spotify.com/show/4ATOzgTwwo0eSSuCY09T56) | Desenvolvimento | Lucas Teles | --------- |
+| [Refatorando](https://anchor.fm/refatorandocast) | Geral | Caroline Dantas | --------- |
 | [Rolando os Dados](https://open.spotify.com/show/5HVHu909KI4JbDW7TWiHbe?si=bDAAQSl5Sv2X-j-6NHxRuw) | Análise de Dados |  | --------- |
 | [Sala de TI](https://saladeti.com/podcast/) | Geral | Vários | --------- |
 | [Scuba Ponto Dev](https://www.scuba.dev.br) | Geral | Grupo Caelum | --------- |
