@@ -13,6 +13,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Criando Monstrinhos](https://linklist.bio/leitoraincomum) | Maternidade de Adolescentes | Fernanda Souza e Isis Tomie | --------- |
 | [PerifaCon](https://perifacon.com.br/podcast/) | Conteúdo Geek | PerifaCon | --------- |
 | [Quadrinhos e Narrativas](https://turnolivre.com/category/pod-cast/quadrinhos-e-narrativas/) | Conteúdo Geek | Hamilton Kabuna | --------- |
+| [Refatorando](https://anchor.fm/refatorandocast) | Tecnologia | Caroline Dantas | --------- |
 | []() |  |  | --------- |
 | []() |  |  | --------- |
 | []() |  |  | --------- |
