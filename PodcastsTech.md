@@ -39,6 +39,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Interação Humano-Máquina](https://anchor.fm/cesar-franssa) | Desenvolvimento | César França | --------- |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Geral                     | Lambda3           | ---------  |
 | [Levanta o Cast](https://anchor.fm/levanta-o-cast) | Geral | Vários | --------- |
+| [Linux Tips](https://www.linuxtips.io/podcast) | DevOps | Jeferson Fernando & Guilherme Calcette | --------- |
 | [Loop Matinal](http://www.loopmatinal.com/) | Geral | Junior Nannetti e William Marchiori | --------- |
 | [Mlks da DeepWeb](https://anchor.fm/mlks-da-deepweb) | Desenvolvimento | Ederson Developer, Kastro Walker, Professor Bruno Lopes, TonhoCodes e Vitthin | --------- |
 | [Moças da Web](https://anchor.fm/mocasdaweb) | Front-End | Levs Xyca e Pachi Codes | --------- |
@@ -49,13 +50,14 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [P de Podcast](https://anchor.fm/pdepodcast)| Desenvolvimento | Marcio Frayze e Julianno Martins | ---------  |
 | [Papo de Devas](https://open.spotify.com/show/1NKhjTGBdTCtWsxZrlAkfQ)| Desenvolvimento | Nayama Rosa e Priscila Theodoro   | --------- |
 | [Perifacode](https://anchor.fm/perifacode) | Geral | Perifacode | --------- |
+| [Pinhão com Bacon](https://www.youtube.com/channel/UCGIvOpZ9T9jfrObj_szBIAA/featured) | Geral | Bruno Brunoro & William Rodriguez  | --------- |
 | [Pipoca Ágil](https://anchor.fm/pipocaagil/)            | Metodologia Ágil                     | Ibson Cabral         | ---------  |
 | [Pizza de Dados](https://pizzadedados.com/) | Ciência de Dados | Gustavo Coelho, Jessica Temporal e Leticia Portella           | ---------  |
 | [PODebug](http://podebug.com) | Desenvolvimento | Carlos Henrique, Luiz Borba, Marcelo Lv Cabral e Vladimir Cezar | --------- |
 | [Podcast do Júlio](https://anchor.fm/juliodelimas) | Qualidade e Testes de Software | Julio de Lima | --------- |
 | [PodProgramar](https://podprogramar.com.br) | Desenvolvimento                    | Ana Eliza e Jessi Zanelato        | ---------  |
 | [PodTag](https://www.podtag.com.br) | Geral | Clécius Martinkoski, Luiz Gonçalves e Yanna Gonzaga | --------- |
-| [Qansei](https://anchor.fm/qansei) | Qualidade e Desenvolvimento | AgileTesters  | --------- |AgileTesters 
+| [Qansei](https://anchor.fm/qansei) | Qualidade e Desenvolvimento | AgileTesters  | --------- | 
 | [QuebraDev](https://quebradev.com.br) | Geral | Debora Rocha, Gustavo C, astilião, Kaio Teixeira, Lucas Silva, Marcos Florencio, Reginaldo Junior, Thassia Lima e Willian Viana | ---------  |
 | [Papo Livre](https://papolivre.org) | Geral | Antonio Terceiro, Paulo Santana e Thiago Mendonça       | ---------  |
 | [Rapidinha com @edgarberlinck](https://anchor.fm/curtinhasdoed) | Geral | Edgar Muniz Berlinck | --------- |
