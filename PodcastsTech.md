@@ -15,6 +15,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)   | Geral                     | LuizaLabs | LuizaLabs é o laboratório de Tecnologia e Inovação do Magalu.    |
 | [Café de Bug](https://omny.fm/shows/cafe-de-bug) | Geral | Jéssica Nathany | --------- |
 | [CariocaDev](https://anchor.fm/unicariocadev) | Geral | Profissionais de TI, alunos, ex alunos da Unicarioca do Rio Comprido | --------- |
+| [Carreira Sem Fronteiras](https://www.carreirasemfronteiras.com.br) | Carreira de Tecnologia | Alura (Caelum) | --------- |
 | [Castálio Podcast](https://castalio.info/) | Geral | Bruno Rocha, Elyézer Rezende e Og Maciel | --------- |
 | [Cloud Casters](https://cloudcasters.io) | Geral | Fabricio Sanchez e Evilázaro Alves  | --------- |
 | [Coders Podcast](https://open.spotify.com/show/7kBwYw8J9vpTPjYODOmt3N) | Geral | Achiles Luciano, Lamunier Costa e Ramon Sousa | --------- |
@@ -38,6 +39,8 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Hipsters Ponto Tech](https://hipsters.tech/) | Geral | Grupo Caelum          | ---------  |
 | [Interação Humano-Máquina](https://anchor.fm/cesar-franssa) | Desenvolvimento | César França | --------- |
 | [Lambda3](https://www.lambda3.com.br/lambda3-podcast/) | Geral                     | Lambda3           | ---------  |
+| [Layers Ponto Tech](https://www.layerspontotech.com.br) | Geral | Alura (Caelum) | --------- |
+| [Like A Boss](https://www.likeaboss.com.br/sobre/) | Líderes de Startups | Alura (Caelum) | --------- |
 | [Levanta o Cast](https://anchor.fm/levanta-o-cast) | Geral | Vários | --------- |
 | [Linux Tips](https://www.linuxtips.io/podcast) | DevOps | Jeferson Fernando & Guilherme Calcette | --------- |
 | [Loop Matinal](http://www.loopmatinal.com/) | Geral | Junior Nannetti e William Marchiori | --------- |
