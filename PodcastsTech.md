@@ -14,6 +14,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Build Failed](https://soundcloud.com/build-failed-podcast?utm_source=listennotes.com&utm_campaign=Listen+Notes&utm_medium=website) | Desenvolvimento Mobile iOS | Bruno Ramos e Bruno Rocha | --------- |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/)   | Geral                     | LuizaLabs | LuizaLabs é o laboratório de Tecnologia e Inovação do Magalu.    |
 | [Café de Bug](https://omny.fm/shows/cafe-de-bug) | Geral | Jéssica Nathany | --------- |
+| [Café Maker](https://www.twitch.tv/kaduzius) | Projetos | Carlos Eduardo e Jonathas Amaral | Programação ocorre todo sábado na twitch do Kaduzius, onde são convidados membros da comunidade que mostram seus projetos, histórias e interesses. |
 | [CariocaDev](https://anchor.fm/unicariocadev) | Geral | Profissionais de TI, alunos, ex alunos da Unicarioca do Rio Comprido | --------- |
 | [Carreira Sem Fronteiras](https://www.carreirasemfronteiras.com.br) | Carreira de Tecnologia | Alura (Caelum) | --------- |
 | [Castálio Podcast](https://castalio.info/) | Geral | Bruno Rocha, Elyézer Rezende e Og Maciel | --------- |
