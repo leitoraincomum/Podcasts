@@ -52,7 +52,9 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Os Programadores](https://anchor.fm/osprogramadores) | Desenvolvimento | Marcelo Pinheiro | --------- |
 | [P de Podcast](https://anchor.fm/pdepodcast)| Desenvolvimento | Marcio Frayze e Julianno Martins | ---------  |
 | [Papo de Devas](https://open.spotify.com/show/1NKhjTGBdTCtWsxZrlAkfQ)| Desenvolvimento | Nayama Rosa e Priscila Theodoro   | --------- |
+| [Papo Livre](https://papolivre.org) | Geral | Antonio Terceiro, Paulo Santana e Thiago Mendonça       | ---------  |
 | [Perifacode](https://anchor.fm/perifacode) | Geral | Perifacode | --------- |
+|[PHP do jeito certo](https://phpdojeitocerto.tumblr.com)| Desenvolvimento | Davi Moreira, Diego Brocanelli, Jack Makiyama e Marcelo Santos | --------- |
 | [Pinhão com Bacon](https://www.youtube.com/channel/UCGIvOpZ9T9jfrObj_szBIAA/featured) | Geral | Bruno Brunoro & William Rodriguez  | --------- |
 | [Pipoca Ágil](https://anchor.fm/pipocaagil/)            | Metodologia Ágil                     | Ibson Cabral         | ---------  |
 | [Pizza de Dados](https://pizzadedados.com/) | Ciência de Dados | Gustavo Coelho, Jessica Temporal e Leticia Portella           | ---------  |
@@ -62,8 +64,6 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [PodTag](https://www.podtag.com.br) | Geral | Clécius Martinkoski, Luiz Gonçalves e Yanna Gonzaga | --------- |
 | [Qansei](https://anchor.fm/qansei) | Qualidade e Desenvolvimento | AgileTesters  | --------- | 
 | [QuebraDev](https://quebradev.com.br) | Geral | Debora Rocha, Gustavo C, astilião, Kaio Teixeira, Lucas Silva, Marcos Florencio, Reginaldo Junior, Thassia Lima e Willian Viana | ---------  |
-| [Papo Livre](https://papolivre.org) | Geral | Antonio Terceiro, Paulo Santana e Thiago Mendonça       | ---------  |
-|[PHP do jeito certo](https://phpdojeitocerto.tumblr.com)| Desenvolvimento | Davi Moreira, Diego Brocanelli, Jack Makiyama e Marcelo Santos | --------- |
 | [Rapidinha com @edgarberlinck](https://anchor.fm/curtinhasdoed) | Geral | Edgar Muniz Berlinck | --------- |
 | [RebuildCast](https://open.spotify.com/show/4ATOzgTwwo0eSSuCY09T56) | Desenvolvimento | Lucas Teles | --------- |
 | [Refatorando](https://anchor.fm/refatorandocast) | Geral | Caroline Dantas | --------- |
