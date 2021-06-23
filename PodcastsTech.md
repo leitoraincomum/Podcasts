@@ -45,7 +45,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Linux Tips](https://www.linuxtips.io/podcast) | DevOps | Jeferson Fernando & Guilherme Calcette | --------- |
 | [Loop Matinal](http://www.loopmatinal.com/) | Geral | Junior Nannetti e William Marchiori | --------- |
 | [Mlks da DeepWeb](https://anchor.fm/mlks-da-deepweb) | Desenvolvimento | Ederson Developer, Kastro Walker, Professor Bruno Lopes, TonhoCodes e Vitthin | --------- |
-| [Moças da Web](https://anchor.fm/mocasdaweb) | Front-End | Levs Xyca e Pachi Codes | --------- |
+| [Moças da Web](https://anchor.fm/mocasdaweb) | Front-End | Levsxyca e Pachi Codes | --------- |
 | [MovileCast](https://open.spotify.com/show/28364GKc4RPwB3zQsbuctj) | Geral | Grupo Movile | --------- |
 | [O Universo da Programação](https://anchor.fm/ouniversodaprogramacao) | Desenvolvimento | Willian Oliveira | --------- |
 | [Os Agilistas](https://open.spotify.com/show/2HyjQl5KLIAIPYR8qP5IXr) | Metodologia Ágil | DTI Digital | --------- |
@@ -63,6 +63,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Qansei](https://anchor.fm/qansei) | Qualidade e Desenvolvimento | AgileTesters  | --------- | 
 | [QuebraDev](https://quebradev.com.br) | Geral | Debora Rocha, Gustavo C, astilião, Kaio Teixeira, Lucas Silva, Marcos Florencio, Reginaldo Junior, Thassia Lima e Willian Viana | ---------  |
 | [Papo Livre](https://papolivre.org) | Geral | Antonio Terceiro, Paulo Santana e Thiago Mendonça       | ---------  |
+|[PHP do jeito certo](https://phpdojeitocerto.tumblr.com)| Desenvolvimento | Davi Moreira, Diego Brocanelli, Jack Makiyama e Marcelo Santos | --------- |
 | [Rapidinha com @edgarberlinck](https://anchor.fm/curtinhasdoed) | Geral | Edgar Muniz Berlinck | --------- |
 | [RebuildCast](https://open.spotify.com/show/4ATOzgTwwo0eSSuCY09T56) | Desenvolvimento | Lucas Teles | --------- |
 | [Refatorando](https://anchor.fm/refatorandocast) | Geral | Caroline Dantas | --------- |
