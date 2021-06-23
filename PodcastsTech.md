@@ -87,6 +87,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Software Engineering Radio](https://www.se-radio.net/) |  |  | --------- |
 | [Software Engineering Unlocked](https://www.software-engineering-unlocked.com/) |  |  | --------- |
 | [The unknown developer](https://anchor.fm/the-unknown-developer) |  Desenvolvimento  |  --------- | Inglês  |
+|[API The Docs](https://castbox.fm/channel/API-The-Docs-Podcast-id2852283) | Desenvolvimento | ------- | Inglês |
 
 
 ## Agradecimentos 
