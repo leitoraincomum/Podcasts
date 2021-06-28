@@ -33,6 +33,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Estratégia Tech](https://anchor.fm/estrategia-tech)   | Concursos de TI  | Estratégia Concursos |  Conteúdo voltado para concursos de Tecnologia da Informação |
 | [FalaDev](https://anchor.fm/faladev) | Desenvolvimento | Rocketseat         | ---------  |
 | [Fechatag](https://fechatagpodcast.com.br) | Conversas Com Pessoas Tech | Fê Montanha | --------- |
+| [Feministech](https://anchor.fm/feministech) | Geral | Feministech | -------------- |
 | [Fronteiras da Engenharia de Software](https://anchor.fm/fronteirasES) | Engenharia de Software | Adolfo Neto e Gustavo Pinto | --------- |
 | [Grok Podcast](https://www.grokpodcast.com.br/) | Desenvolvimento |  Carlos Brando e Rafael Rosa Fu| --------- |
 | [HiDev](https://anchor.fm/hidevpodcast) | Desenvolvimento | BrDesenvolvimentouno Cartaxo | --------- |
@@ -48,6 +49,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Moças da Web](https://anchor.fm/mocasdaweb) | Front-End | Levsxyca e Pachi Codes | --------- |
 | [MovileCast](https://open.spotify.com/show/28364GKc4RPwB3zQsbuctj) | Geral | Grupo Movile | --------- |
 | [O Universo da Programação](https://anchor.fm/ouniversodaprogramacao) | Desenvolvimento | Willian Oliveira | --------- |
+| [Only tech Fans](https://www.onlytechfans.com/podcast) | Geral | Vanessa Barr | --------- |
 | [Os Agilistas](https://open.spotify.com/show/2HyjQl5KLIAIPYR8qP5IXr) | Metodologia Ágil | DTI Digital | --------- |
 | [Os Programadores](https://anchor.fm/osprogramadores) | Desenvolvimento | Marcelo Pinheiro | --------- |
 | [P de Podcast](https://anchor.fm/pdepodcast)| Desenvolvimento | Marcio Frayze e Julianno Martins | ---------  |
