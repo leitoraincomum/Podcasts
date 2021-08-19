@@ -46,6 +46,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | [Levanta o Cast](https://anchor.fm/levanta-o-cast) | Geral | Vários | --------- |
 | [Linux Tips](https://www.linuxtips.io/podcast) | DevOps | Jeferson Fernando & Guilherme Calcette | --------- |
 | [Loop Matinal](http://www.loopmatinal.com/) | Geral | Junior Nannetti e William Marchiori | --------- |
+| [MIT Technology Review Brasil](https://anchor.fm/mittechreviewbrasil) | Geral | André Miceli, Carlos Aros e Rafael Coimbra | --------- |
 | [Mlks da DeepWeb](https://anchor.fm/mlks-da-deepweb) | Desenvolvimento | Ederson Developer, Kastro Walker, Professor Bruno Lopes, TonhoCodes e Vitthin | --------- |
 | [Moças da Web](https://anchor.fm/mocasdaweb) | Front-End | Levsxyca e Pachi Codes | --------- |
 | [MovileCast](https://open.spotify.com/show/28364GKc4RPwB3zQsbuctj) | Geral | Grupo Movile | --------- |
@@ -102,7 +103,6 @@ Agradecimento a todos que contribuem para que essa lista seja possível.
 
 <!-- Links para organizar
 
-| []() |  |  | --------- |
 | []() |  |  | --------- |
 | []() |  |  | --------- |
 | []() |  |  | --------- |
