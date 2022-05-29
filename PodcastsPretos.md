@@ -11,7 +11,7 @@ Se tiver interesse em contribuir, faça o fork e abra um pull request. :purple_h
 | Nome (com link)  | Área Principal  (Literatura, Dev, Tech, Parentalidade, etc)    | Responsável | Observação (opcional)   |
 | -------------------------------------------------------------------- | --------------------------- | ----------- | -------- |
 | [Afetos](https://orelo.cc/podcast/5e7eb2c061d8770ee8c3b127) | Reflexões sobre a vida e seus afetos | Gabi Oliveira e Karina Vieira | --------- |
-| [Criando Monstrinhos](https://linklist.bio/leitoraincomum) | Maternidade de Adolescentes | Fernanda Souza e Isis Tomie | --------- |
+| [Criando Monstrinhos](https://orelo.cc/podcast/5fac4adc91ef7c6124ae55fd) | Maternidade de Adolescentes | Fernanda Souza e Isis Tomie | --------- |
 | [Mano a Mano](https://open.spotify.com/show/0GnKiYeK11476CfoQEYlEd) | Mano Brown entrevista convidados | Mano Brown | --------- |
 | [Não inviabilize](https://naoinviabilize.com.br) | Histórias reais sobre o cotidiano | Deia Freitas | --------- |
 | [PerifaCon](https://perifacon.com.br/podcast/) | Conteúdo Geek | PerifaCon | --------- |
